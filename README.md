@@ -21,12 +21,12 @@ Due to the volatility in the cases time series, we focus on the deaths time-seri
 
 We compare the change in R<sub>t</sub> following the start of the school year to determine the impact of teaching posture (i.e. on-premises, online-only, or hybrid) for K-12 students on COVID-19 disease transmission. We split the semester up into two time-periods, as detailed in the following visual:
 
-[semester_start_visual](./reports/images/school_semester_start.png)
+![semester_start_visual](./reports/images/school_semester_start.png)
 
 If there was a relationship between disease transmission and whether students were in school, we would expect to see a strong positive relationship between teaching posture and R<sub>t</sub> for on-premises teaching compared to online-only teaching. However, there does not appear to be any difference in the relationship between teaching posture and the change in R<sub>t</sub> during the time periods of interest, as seen in the following visuals:
 
-[change_in_rt](./reports/images/change_in_rt_scatter.png)
+![change_in_rt](./reports/images/change_in_rt_scatter.png)
 
-[change_in_rt_pop](./reports/images/change_in_rt_scatter_by_density.png)
+![change_in_rt_pop](./reports/images/change_in_rt_scatter_by_density.png)
 
-[change_in_rt_posture](./reports/images/change_in_rt_scatter_by_teaching_posture.png)
+![change_in_rt_posture](./reports/images/change_in_rt_scatter_by_teaching_posture.png)
